@@ -14,3 +14,4 @@ Here i create a fashion blog web apps named news-blog that helps the customer to
 
 ##contact
 ![Screenshot (250)](https://user-images.githubusercontent.com/108003083/179508638-99a39060-a1ab-413e-874d-14d755650b3e.png)
+![Screenshot (249)](https://user-images.githubusercontent.com/108003083/179508909-d7cbcd00-01b3-4ce1-b965-a3f5187f9c54.png)
