@@ -1,9 +1,10 @@
-![Screenshot 2024-02-29 161226](https://github.com/hemantgarg1452/news-blog/assets/108003083/5dcfa9bd-0f9c-490a-b9db-8e8492a9d77b)# News-Blog
+# News-Blog
 
 ## FRT: Future-ready talent project by Hemant Garg.
 News-Blog is a fashion blog web app that helps customers find new fashion ideas and also find good products at cheap rates and genuine quality.
 
 ## Live link: https://delightful-stone-01ab3ac10.1.azurestaticapps.net/
+(https://news-blog-ilqa7cko5-hemantgarg1452.vercel.app/index.html)
 
 ## Installation and Usage
 To install and use News-Blog, follow these steps:
