@@ -1,17 +1,33 @@
-## frt: Future-ready talent project by Hemant Garg.
-Here I created a fashion blog web app named news-blog that helps customers find new fashion ideas and good products at cheap rates and genuine products.
+# News-Blog
 
-## my website link: https://delightful-stone-01ab3ac10.1.azurestaticapps.net/
+## FRT: Future-ready talent project by Hemant Garg.
+News-Blog is a fashion blog web app that helps customers find new fashion ideas and also find good products at cheap rates and genuine quality.
 
-## Home page
-![Screenshot (244)](https://user-images.githubusercontent.com/108003083/179507667-40fad43e-84fe-4b18-b59a-cc980a6c5488.png)
-![Screenshot (245)](https://user-images.githubusercontent.com/108003083/179508005-994faa70-2329-46c3-9415-1b33c1f2cda9.png)
+## Live link: https://delightful-stone-01ab3ac10.1.azurestaticapps.net/
 
-## about 
-![Screenshot (246)](https://user-images.githubusercontent.com/108003083/179508566-4b6a6b38-efc7-4088-a4a7-d382c0949338.png)
-![Screenshot (247)](https://user-images.githubusercontent.com/108003083/179508591-f7fe34fc-2090-4e02-8562-aba2b9c5964c.png)
-![Screenshot (248)](https://user-images.githubusercontent.com/108003083/179508612-1b0d1841-f82e-467b-8921-84c50f114fc3.png)
+## Installation and Usage
+To install and use News-Blog, follow these steps:
 
-## contact
-![Screenshot (250)](https://user-images.githubusercontent.com/108003083/179508638-99a39060-a1ab-413e-874d-14d755650b3e.png)
-![Screenshot (249)](https://user-images.githubusercontent.com/108003083/179508909-d7cbcd00-01b3-4ce1-b965-a3f5187f9c54.png)
+1. Clone this repository to your local machine.
+2. Open the project folder in your code editor of choice (e.g. VS Code, Atom, Sublime Text, etc.).
+3. Run the **npm install** command to install the dependencies.
+4. Run the **npm start** command to start the development server.
+5. Open http://localhost:3000 in your browser to view the app.
+   
+## Demo
+### Home page
+This is where you can see the latest fashion news and trends.
+
+
+### About
+This is where you can read the full article of a fashion news or trend
+
+
+### Contact
+
+## Contributing
+News-Blog is an open-source project and I welcome any contributions from the community. If you want to contribute to News-Blog, you can do so in the following ways:
+
+1. Report any bugs, errors, or issues you encounter using the [issue tracker].
+2. Suggest any new features, enhancements, or improvements you would like to see in the app using the [feature request] template.
+3. Fork the repository, make your changes, and submit a [pull request] for review and merge.
