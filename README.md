@@ -1,4 +1,4 @@
-# News-Blog
+![Screenshot 2024-02-29 161226](https://github.com/hemantgarg1452/news-blog/assets/108003083/5dcfa9bd-0f9c-490a-b9db-8e8492a9d77b)# News-Blog
 
 ## FRT: Future-ready talent project by Hemant Garg.
 News-Blog is a fashion blog web app that helps customers find new fashion ideas and also find good products at cheap rates and genuine quality.
@@ -17,13 +17,18 @@ To install and use News-Blog, follow these steps:
 ## Demo
 ### Home page
 This is where you can see the latest fashion news and trends.
+![Screenshot 2024-02-29 161226](https://github.com/hemantgarg1452/news-blog/assets/108003083/b0a3fb0a-8ee8-403d-a36c-9ba1af5734c0)
+
+![Screenshot 2024-02-29 161113](https://github.com/hemantgarg1452/news-blog/assets/108003083/4b2fb0e6-96fd-4469-92f4-09daa97ede26)
 
 
 ### About
 This is where you can read the full article of a fashion news or trend
+![Screenshot 2024-02-29 161143](https://github.com/hemantgarg1452/news-blog/assets/108003083/73a91e72-2a33-4d48-bcf2-5613cca35890)
 
 
 ### Contact
+![Screenshot 2024-02-29 161201](https://github.com/hemantgarg1452/news-blog/assets/108003083/0ca61118-e227-4ec2-9c01-c9aa7320e62e)
 
 ## Contributing
 News-Blog is an open-source project and I welcome any contributions from the community. If you want to contribute to News-Blog, you can do so in the following ways:
