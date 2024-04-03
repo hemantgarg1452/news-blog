@@ -13,7 +13,7 @@ To install and use News-Blog, follow these steps:
 2. Open the project folder in your code editor of choice (e.g. VS Code, Atom, Sublime Text, etc.).
 3. Run the **npm install** command to install the dependencies.
 4. Run the **npm start** command to start the development server.
-5. Open http://localhost:3000 in your browser to view the app.
+5. Open http://localhost:3000 in your browser to view the app
    
 ## Demo
 ### Home page
